@@ -11,7 +11,7 @@ I'm a passionate developer on a journey to create meaningful and impactful softw
 
 💬 Ask me about my journey into programming, my favorite coding challenges, or anything related to web development. I'm always up for a good tech discussion!
 
-📫 How to reach me: Feel free to drop me a message here on GitHub, or connect with me on LinkedIn for broader discussions and networking.
+📫 How to reach me: Feel free to connect with me on LinkedIn for broader discussions and networking.
 
 😄 Pronouns: She/Her
 
