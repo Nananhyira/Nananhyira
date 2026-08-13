@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=685&height=44&lines=Full-Stack%20JavaScript%20%2F%20TypeScript%20Engineer" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20JavaScript%20%2F%20TypeScript%20Engineer%20but%20i%20focus%20on%20Frontend%20Engineering" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -78,7 +78,7 @@ I enjoy taking products from idea to production — from backend APIs and data m
 <p align="left">
   <a href="https://linkedin.com/in/linkedin.com/in/comfort-appiah" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/raba_codes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://youtube.com/@raba codes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://youtube.com/@rabacodes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ### 📊 GitHub Stats
