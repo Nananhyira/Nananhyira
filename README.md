@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20JavaScript%20%2F%20TypeScript%20Engineer%20but%20i%20focus%20on%20Frontend%20Engineering" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Full-Stack%20JavaScript%20%2F%20TypeScript%20Engineer%20%20with%20focus%20on%20Frontend%20Engineering" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
